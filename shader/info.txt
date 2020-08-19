@@ -1,1 +1,2 @@
-this shaderpack is used by the modpack author and is recommended for a pleasant looking experience
+this shaderpack is used by the modpack author and is recommended for a pleasant looking experience.
+the zip archive must be unzipped and its contents (one folder and one .txt file) must be copied into the 'shaderpacks' folder
