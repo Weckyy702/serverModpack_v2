@@ -1,2 +1,4 @@
-this shaderpack is used by the modpack author and is recommended for a pleasant looking experience.
+This Shaderpack is only recommended for a cinematic experience
+on very fast machines (GTX 1660 AMD Ryzen 5 2600 => ~30 FPS)
+
 the zip archive must be unzipped and its contents (one folder and one .txt file) must be copied into the 'shaderpacks' folder
